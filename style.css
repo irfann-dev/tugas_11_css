@@ -1,0 +1,33 @@
+header {
+    height: 50px;
+    background-color: black;
+}
+li {
+    list-style: none;
+    float: left;
+    padding: 8px;
+    margin-top: 5px;
+}
+a {
+    color: white;
+    text-decoration: none;
+}
+.content {
+    column-count: 4;
+    text-align: justify;
+    column-rule: 5px double black;
+}
+.span {
+    column-span: all;
+    
+}
+
+footer {
+    height: 50px;
+    background-color: black;
+}
+.footer h2{
+    color: white;
+    text-align: center;
+    
+}
